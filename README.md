@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente estou trabalhando com Python e suas bibliotecas.
-- 🌱 Estou aprendendo sobre Django, Kivy e Pysimplegui.
+- 🌱 Estou aprendendo sobre Django, Kivy, Pysimplegui, Pygame e Ursina.
 - 👯 Procuro auxiliar com projetos Pyhon em geral e obter conhecimentos com esses projetos.
 - 🤔 Procuro ajudar a todos que eu puder com meus conhecimentos.
 - 💬 Perguntem o que quiserem, se eu souber responder será um prazer ajudar.
