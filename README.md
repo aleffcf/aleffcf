@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá 👋
+
+- 🔭 Atualmente estou trabalhando com Python e suas bibliotecas.
+- 🌱 Estou aprendendo sobre Django, Kivy e Pysimplegui.
+- 👯 Procuro auxiliar com projetos Pyhon em geral e obter conhecimentos com esses projetos.
+- 🤔 Procuro ajudar a todos que eu puder com meus conhecimentos.
+- 💬 Perguntem o que quiserem, se eu souber responder será um prazer ajudar.
+- 📫 Posso ser encontrado no meu linkedin https://linkedin.com/in/aleff-carmona-ferreira-2b778a21a ou por e-mail aleff.carmonaferreira@gmail.com
+
 
 <!--
 **aleffcf/aleffcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
